@@ -20,8 +20,8 @@
 - Nodejs
 - Swagger
 
-* [Visual Studio Code] - Code editor
-* [Postman] - API client
+* Visual Studio Code - Code editor
+* Postman - API client
 
 ## Run this project in your local machine:
 
